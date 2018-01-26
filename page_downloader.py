@@ -3,9 +3,9 @@
 import requests
 import time
 import random
-from spider.log_format import logger
-from spider.UAS import *
-from spider.config import *
+from log_format import logger
+from UAS import *
+from config import *
 import hashlib
 from pybloom_live import ScalableBloomFilter
 import os

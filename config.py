@@ -15,7 +15,6 @@ ip = None ###
 ua_type = 'pc'
 ## header在UAS.py中
 
-
 ## 队列顺序
 FIFO = 0
 
